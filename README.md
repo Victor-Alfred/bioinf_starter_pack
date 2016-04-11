@@ -18,9 +18,9 @@ Papers with basic info
 Work a bit more efficiently and reproducibly
 --------------------------------------------
 
-It might seem to much to demand reproducibility, version control and similar
-stuff from an absolute beginners, but better start early. If you keep a lab
-notebook, you should keep something similar, when writing ugly hacks. Probably
+It might seem too much to demand reproducibility, version control and similar
+stuff from absolute beginners, but better start early. If you keep a lab
+notebook, you should keep something similar when writing ugly hacks. Probably
 the information is quite redundant in the following papers, but just to make
 sure.
 
