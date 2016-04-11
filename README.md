@@ -60,3 +60,5 @@ Books
 -----
 
 * [Learn Python the Hard Way](http://learnpythonthehardway.org)
+* [Python for Biologists](http://pythonforbiologists.com)
+* [R for Data Science](http://r4ds.had.co.nz)
