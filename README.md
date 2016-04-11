@@ -15,7 +15,7 @@ Papers with basic info
 * A quick guide to organizing computational biology projects
   [10.1371/journal.pcbi.1000424](http://dx.doi.org/10.1371/journal.pcbi.1000424)
 
-Work a bit more effectively and reproducibly
+Work a bit more efficiently and reproducibly
 --------------------------------------------
 
 It might seem to much to demand reproducibility, version control and similar
