@@ -48,6 +48,18 @@ Collection of papers in Nature Methods on data visualization.
 * Data visualization: A view of every Points of View column
   [here](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
 
+Stuff to install before starting the courses and books
+------------------------------------------------------
+
+* Install some kind of Linux distribution and play around. Cry a lot. Maybe
+  [Ubuntu](http://www.ubuntu.com/).
+* Install [R](https://www.r-project.org/) and
+  [RStudio](https://www.rstudio.com/). Figure it out how to do it!
+* Install [Anaconda](https://www.continuum.io/downloads), a Python distribution.
+* Check [bioconda](https://bioconda.github.io) and install some bioinformatics
+  packages.
+* Check [Bioconductor](https://bioconductor.org/install) and install some R packages.
+
 Online courses
 --------------
 
