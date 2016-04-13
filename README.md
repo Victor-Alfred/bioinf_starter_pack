@@ -34,6 +34,12 @@ sure.
 * Ten Simple Rules for Reproducible Computational Research
   [10.1371/journal.pcbi.1003285](http://dx.doi.org/10.1371/journal.pcbi.1003285)
 
+Perspective
+-----------
+
+* Biological data sciences in genome research
+  [10.1101/gr.191684.115](http://dx.doi.org/10.1101/gr.191684.115)
+
 Primer collections
 ------------------
 
