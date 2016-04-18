@@ -28,6 +28,8 @@ sure.
   [10.1186/s13059-015-0850-7](http://dx.doi.org/10.1186/s13059-015-0850-7)
 * A Quick Introduction to Version Control with Git and GitHub
   [10.1371/journal.pcbi.1004668](http://dx.doi.org/10.1371/journal.pcbi.1004668)
+* Ten Simple Rules for Taking Advantage of git and GitHub
+  [10.1101/048744](http://dx.doi.org/10.1101/048744)
 * Tidy Data [10.18637/jss.v059.i10](http://dx.doi.org/10.18637/jss.v059.i10)
 * Best Practices for Scientific Computing
   [10.1371/journal.pbio.1001745](http://dx.doi.org/10.1371/journal.pbio.1001745)
