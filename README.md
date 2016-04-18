@@ -80,3 +80,4 @@ Books
 * [Learn Python the Hard Way](http://learnpythonthehardway.org)
 * [Python for Biologists](http://pythonforbiologists.com)
 * [R for Data Science](http://r4ds.had.co.nz)
+* [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do)
