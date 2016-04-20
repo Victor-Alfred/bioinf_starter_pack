@@ -75,6 +75,9 @@ Online courses
   [Coursera](https://www.coursera.org/specializations/jhu-data-science)
 * Rosalind, a [platform for learning bioinformatics](http://rosalind.info/problems/locations)
   through problem solving
+* Software Carpentry [Lessons](http://software-carpentry.org/lessons) with lots
+  of basic info on the Linux shell, programming, git, automation,
+  reproducibility.
 
 Books
 -----
