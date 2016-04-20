@@ -68,6 +68,14 @@ Stuff to install before starting the courses and books
   packages.
 * Check [Bioconductor](https://bioconductor.org/install) and install some R packages.
 
+Linux command line
+------------------
+
+This might be useful right after installing Ubuntu and before starting to learn
+anything else.
+
+* The Command Line Crash [Course](http://cli.learncodethehardway.org/book)
+
 Online courses
 --------------
 
