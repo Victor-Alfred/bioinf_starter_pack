@@ -45,6 +45,9 @@ Perspective
 Primer collections
 ------------------
 
+* An Introduction to Programming for Bioscientists: A Python-Based Primer
+  [10.1371/journal.pcbi.1004867](http://dx.doi.org/10.1371/journal.pcbi.1004867)
+
 Collections of papers with a very short introduction on a diverse set of
 computational biology topics.
 
