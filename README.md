@@ -24,6 +24,8 @@ notebook, you should keep something similar when writing ugly hacks. Probably
 the information is quite redundant in the following papers, but just to make
 sure.
 
+* A statistical definition for reproducibility and replicability
+  [10.1101/066803](http://dx.doi.org/10.1101/066803)
 * Five selfish reasons to work reproducibly
   [10.1186/s13059-015-0850-7](http://dx.doi.org/10.1186/s13059-015-0850-7)
 * A Quick Introduction to Version Control with Git and GitHub
@@ -33,6 +35,8 @@ sure.
 * Tidy Data [10.18637/jss.v059.i10](http://dx.doi.org/10.18637/jss.v059.i10)
 * Best Practices for Scientific Computing
   [10.1371/journal.pbio.1001745](http://dx.doi.org/10.1371/journal.pbio.1001745)
+* Good Enough Practices in Scientific Computing
+  [arXiv:1609.00037](http://arxiv.org/abs/1609.00037)
 * Ten Simple Rules for Reproducible Computational Research
   [10.1371/journal.pcbi.1003285](http://dx.doi.org/10.1371/journal.pcbi.1003285)
 
@@ -58,6 +62,11 @@ Collection of papers in Nature Methods on data visualization.
 
 * Data visualization: A view of every Points of View column
   [here](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
+
+Collection of papers in Nature Methods on basic statistical concepts.
+
+* Points of Significance: Statistics for Biologists
+  [here](http://www.nature.com/collections/qghhqm/pointsofsignificance)
 
 Stuff to install before starting the courses and books
 ------------------------------------------------------
