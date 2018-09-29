@@ -93,6 +93,8 @@ Online courses
 
 * Data Science Specialization at
   [Coursera](https://www.coursera.org/specializations/jhu-data-science)
+* Command Line Tools for Genomic Data Science at
+  [Coursera](https://www.coursera.org/specializations/genomic-data-science)
 * Rosalind, a [platform for learning bioinformatics](http://rosalind.info/problems/locations)
   through problem solving
 * Software Carpentry [Lessons](http://software-carpentry.org/lessons) with lots
