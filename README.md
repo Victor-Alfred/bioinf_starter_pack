@@ -114,8 +114,9 @@ Books and university courses
 * [R for Data Science](http://r4ds.had.co.nz)
 * [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do)
 
-More detailed courses focusing on bioinformatics and genomics
+More detailed courses focusing on data science, bioinformatics and genomics
 
+* [Introduction to Data Science](https://rafalab.github.io/dsbook/)
 * [Introduction to Computational Biology](https://biodatascience.github.io/compbio/)
 * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/)
 * [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
