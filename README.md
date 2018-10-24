@@ -92,14 +92,19 @@ Online courses
 --------------
 
 * Data Science Specialization at
-  [Coursera](https://www.coursera.org/specializations/jhu-data-science)
-* Command Line Tools for Genomic Data Science at
-  [Coursera](https://www.coursera.org/specializations/genomic-data-science)
+  [Coursera](https://www.coursera.org/specializations/jhu-data-science). This is
+  a general course on cleaning up, exploring, plotting and analysing data.
+* Genomic Data Science Specialization at
+  [Coursera](https://www.coursera.org/specializations/genomic-data-science).
+  Tools and methods to analyse sequencing data, from Galaxy, to the linux
+  command line and python or R scripts.
 * Rosalind, a [platform for learning bioinformatics](http://rosalind.info/problems/locations)
   through problem solving
 * Software Carpentry [Lessons](http://software-carpentry.org/lessons) with lots
   of basic info on the Linux shell, programming, git, automation,
-  reproducibility.
+  reproducibility. The two most important at the start might be the one on [unix
+  shell](http://swcarpentry.github.io/shell-novice/) and on [version control
+  with git](http://swcarpentry.github.io/git-novice/)
 
 Books
 -----
