@@ -106,10 +106,16 @@ Online courses
   shell](http://swcarpentry.github.io/shell-novice/) and on [version control
   with git](http://swcarpentry.github.io/git-novice/)
 
-Books
------
+Books and university courses
+----------------------------
 
 * [Learn Python the Hard Way](http://learnpythonthehardway.org)
 * [Python for Biologists](http://pythonforbiologists.com)
 * [R for Data Science](http://r4ds.had.co.nz)
 * [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do)
+
+More detailed courses focusing on bioinformatics and genomics
+
+* [Introduction to Computational Biology](https://biodatascience.github.io/compbio/)
+* [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/)
+* [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
