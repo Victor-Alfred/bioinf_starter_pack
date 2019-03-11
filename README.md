@@ -1,6 +1,8 @@
 A collection of resources and papers for absolute beginners
 ===========================================================
 
+
+
 The goal of this list is to provide a bunch of resources for people working in
 the wet-lab, but interested in learning some basic scripting, data cleaning and
 analysis to be more efficient. Suggestions and comments are welcome.
