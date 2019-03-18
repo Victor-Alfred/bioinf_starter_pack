@@ -24,6 +24,10 @@ notebook, you should keep something similar when writing ugly hacks. Probably
 the information is quite redundant in the following papers, but just to make
 sure.
 
+Take a look at [markdown](https://daringfireball.net/projects/markdown/), a
+light-weight markup language to easily format text files, and convert them to
+other formats. github and other sites render it nicely.
+
 * A statistical definition for reproducibility and replicability
   [10.1101/066803](http://dx.doi.org/10.1101/066803)
 * Five selfish reasons to work reproducibly
