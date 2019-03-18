@@ -1,8 +1,6 @@
 A collection of resources and papers for absolute beginners
 ===========================================================
 
-
-
 The goal of this list is to provide a bunch of resources for people working in
 the wet-lab, but interested in learning some basic scripting, data cleaning and
 analysis to be more efficient. Suggestions and comments are welcome.
@@ -33,7 +31,7 @@ sure.
 * A Quick Introduction to Version Control with Git and GitHub
   [10.1371/journal.pcbi.1004668](http://dx.doi.org/10.1371/journal.pcbi.1004668)
 * Ten Simple Rules for Taking Advantage of git and GitHub
-  [10.1101/048744](http://dx.doi.org/10.1101/048744)
+  [10.1371/journal.pcbi.1004947](http://dx.doi.org/10.1371/journal.pcbi.1004947)
 * Tidy Data [10.18637/jss.v059.i10](http://dx.doi.org/10.18637/jss.v059.i10)
 * Best Practices for Scientific Computing
   [10.1371/journal.pbio.1001745](http://dx.doi.org/10.1371/journal.pbio.1001745)
