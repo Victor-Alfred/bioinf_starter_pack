@@ -126,4 +126,3 @@ More detailed courses focusing on data science, bioinformatics and genomics
 * [Introduction to Computational Biology](https://biodatascience.github.io/compbio/)
 * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/)
 * [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
-
