@@ -14,6 +14,8 @@ Papers with basic info
   [10.1371/journal.pcbi.1000589](http://dx.doi.org/10.1371/journal.pcbi.1000589)
 * A quick guide to organizing computational biology projects
   [10.1371/journal.pcbi.1000424](http://dx.doi.org/10.1371/journal.pcbi.1000424)
+* Computational biologists: moving to the driver's seat
+  [10.1186/s13059-017-1357-1](http://dx.doi.org/10.1186/s13059-017-1357-1)
 
 Work a bit more efficiently and reproducibly
 --------------------------------------------
