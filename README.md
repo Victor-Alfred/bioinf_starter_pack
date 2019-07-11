@@ -16,6 +16,8 @@ Papers with basic info
   [10.1371/journal.pcbi.1000424](http://dx.doi.org/10.1371/journal.pcbi.1000424)
 * Computational biologists: moving to the driver's seat
   [10.1186/s13059-017-1357-1](http://dx.doi.org/10.1186/s13059-017-1357-1)
+* All biology is computational biology
+  [10.1371/journal.pbio.2002050](http://dx.doi.org/10.1371/journal.pbio.2002050)
 
 Work a bit more efficiently and reproducibly
 --------------------------------------------
