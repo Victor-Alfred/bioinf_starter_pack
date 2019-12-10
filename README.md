@@ -1,130 +1,104 @@
-A collection of resources and papers for absolute beginners
-===========================================================
+# A collection of resources and papers for absolute beginners
 
 The goal of this list is to provide a bunch of resources for people working in
-the wet-lab, but interested in learning some basic scripting, data cleaning and
+the wet-lab, but interested in learning basic scripting, data cleaning and
 analysis to be more efficient. Suggestions and comments are welcome.
 
-Papers with basic info
-----------------------
+## Papers with basic info
 
-* So you want to be a computational biologist?
-  [10.1038/nbt.2740](http://dx.doi.org/10.1038/nbt.2740)
-* A quick guide for developing effective bioinformatics programming skills
-  [10.1371/journal.pcbi.1000589](http://dx.doi.org/10.1371/journal.pcbi.1000589)
-* A quick guide to organizing computational biology projects
-  [10.1371/journal.pcbi.1000424](http://dx.doi.org/10.1371/journal.pcbi.1000424)
-* Computational biologists: moving to the driver's seat
-  [10.1186/s13059-017-1357-1](http://dx.doi.org/10.1186/s13059-017-1357-1)
-* All biology is computational biology
-  [10.1371/journal.pbio.2002050](http://dx.doi.org/10.1371/journal.pbio.2002050)
+Papers with the very basics. What is computational biology, how to pick up
+skills, why computational biology is important at all and a research field in
+its own right.
 
-Work a bit more efficiently and reproducibly
---------------------------------------------
+* [So you want to be a computational biologist?](https://doi.org/10.1038/nbt.2740)
+* [A quick guide for developing effective bioinformatics programming skills](https://doi.org/10.1371/journal.pcbi.1000589)
+* [A quick guide to organizing computational biology projects](https://doi.org/10.1371/journal.pcbi.1000424)
+* [Computational biologists: moving to the driver's seat](https://doi.org/10.1186/s13059-017-1357-1)
+* [All biology is computational biology](https://doi.org/10.1371/journal.pbio.2002050)
+
+## Papers on reproducibility, version control and coding
 
 It might seem too much to demand reproducibility, version control and similar
-stuff from absolute beginners, but better start early. If you keep a lab
-notebook, you should keep something similar when writing ugly hacks. Probably
-the information is quite redundant in the following papers, but just to make
-sure.
+stuff from the very start, but better start early. If you keep a lab
+notebook, you should keep something similar when writing ~~ugly hacks~~
+elaborate analysis pipelines.
+
+* [A statistical definition for reproducibility and replicability](https://doi.org/10.1101/066803)
+* [Five selfish reasons to work reproducibly](https://doi.org/10.1186/s13059-015-0850-7)
+* [A Quick Introduction to Version Control with Git and GitHub](https://doi.org/10.1371/journal.pcbi.1004668)
+* [Ten Simple Rules for Taking Advantage of git and GitHub](https://doi.org/10.1371/journal.pcbi.1004947)
+* [Tidy Data](https://doi.org/10.18637/jss.v059.i10)
+* [Best Practices for Scientific Computing](https://doi.org/10.1371/journal.pbio.1001745)
+* [Good Enough Practices in Scientific Computing](http://arxiv.org/abs/1609.00037)
+* [Ten Simple Rules for Reproducible Computational Research](https://doi.org/10.1371/journal.pcbi.1003285)
+
+## Perspective
+
+* [Biological data sciences in genome research](https://doi.org/10.1101/gr.191684.115)
+
+## Primer collections
+
+* Nature Biotechnology and PLoS Computational Biology Primers collected
+  [here](http://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html)
+* Data visualization: A view of every Points of View column
+  [here](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
+* Points of Significance: Statistics for Biologists
+  [here](http://www.nature.com/collections/qghhqm/pointsofsignificance)
+
+## Stuff to install
+
+* Install some kind of Linux distribution. [Ubuntu](http://www.ubuntu.com/) is a good start.
+* Install [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/).
+* Install [Anaconda](https://www.continuum.io/downloads), a Python distribution.
+* Check [bioconda](https://bioconda.github.io) and install some bioinformatics packages.
+* Check [Bioconductor](https://bioconductor.org/install) and install some R packages.
+
+## Markdown
 
 Take a look at [markdown](https://daringfireball.net/projects/markdown/), a
 light-weight markup language to easily format text files, and convert them to
 other formats. github and other sites render it nicely.
 
-* A statistical definition for reproducibility and replicability
-  [10.1101/066803](http://dx.doi.org/10.1101/066803)
-* Five selfish reasons to work reproducibly
-  [10.1186/s13059-015-0850-7](http://dx.doi.org/10.1186/s13059-015-0850-7)
-* A Quick Introduction to Version Control with Git and GitHub
-  [10.1371/journal.pcbi.1004668](http://dx.doi.org/10.1371/journal.pcbi.1004668)
-* Ten Simple Rules for Taking Advantage of git and GitHub
-  [10.1371/journal.pcbi.1004947](http://dx.doi.org/10.1371/journal.pcbi.1004947)
-* Tidy Data [10.18637/jss.v059.i10](http://dx.doi.org/10.18637/jss.v059.i10)
-* Best Practices for Scientific Computing
-  [10.1371/journal.pbio.1001745](http://dx.doi.org/10.1371/journal.pbio.1001745)
-* Good Enough Practices in Scientific Computing
-  [arXiv:1609.00037](http://arxiv.org/abs/1609.00037)
-* Ten Simple Rules for Reproducible Computational Research
-  [10.1371/journal.pcbi.1003285](http://dx.doi.org/10.1371/journal.pcbi.1003285)
+## Data organization
 
-Perspective
------------
+* Data Carpentry - [Data Organization in Spreadsheets for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/)
 
-* Biological data sciences in genome research
-  [10.1101/gr.191684.115](http://dx.doi.org/10.1101/gr.191684.115)
-
-Primer collections
-------------------
-
-* An Introduction to Programming for Bioscientists: A Python-Based Primer
-  [10.1371/journal.pcbi.1004867](http://dx.doi.org/10.1371/journal.pcbi.1004867)
-
-Collections of papers with a very short introduction on a diverse set of
-computational biology topics.
-
-* Nature Biotechnology and PLoS Computational Biology Primers collected
-  [here](http://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html)
-
-Collection of papers in Nature Methods on data visualization.
-
-* Data visualization: A view of every Points of View column
-  [here](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
-
-Collection of papers in Nature Methods on basic statistical concepts.
-
-* Points of Significance: Statistics for Biologists
-  [here](http://www.nature.com/collections/qghhqm/pointsofsignificance)
-
-Stuff to install before starting the courses and books
-------------------------------------------------------
-
-* Install some kind of Linux distribution and play around. Cry a lot. Maybe
-  [Ubuntu](http://www.ubuntu.com/).
-* Install [R](https://www.r-project.org/) and
-  [RStudio](https://www.rstudio.com/).
-* Install [Anaconda](https://www.continuum.io/downloads), a Python distribution.
-* Check [bioconda](https://bioconda.github.io) and install some bioinformatics
-  packages.
-* Check [Bioconductor](https://bioconductor.org/install) and install some R packages.
-
-Linux command line
-------------------
-
-This might be useful right after installing Ubuntu and before starting to learn
-anything else.
+## Linux command line
 
 * The Command Line Crash [Course](http://cli.learncodethehardway.org/book)
+* Software Carpentry - [The Unix Shell](http://swcarpentry.github.io/shell-novice/)
+* Software Carpentry - [Shell Extras](https://carpentries-incubator.github.io/shell-extras/)
+* Software Carpentry - [Version Control with Git](http://swcarpentry.github.io/git-novice/)
 
-Online courses
---------------
+## Python
 
-* Data Science Specialization at
-  [Coursera](https://www.coursera.org/specializations/jhu-data-science). This is
-  a general course on cleaning up, exploring, plotting and analysing data.
-* Genomic Data Science Specialization at
-  [Coursera](https://www.coursera.org/specializations/genomic-data-science).
-  Tools and methods to analyse sequencing data, from Galaxy, to the linux
-  command line and python or R scripts.
-* Rosalind, a [platform for learning bioinformatics](http://rosalind.info/problems/locations)
-  through problem solving
-* Software Carpentry [Lessons](http://software-carpentry.org/lessons) with lots
-  of basic info on the Linux shell, programming, git, automation,
-  reproducibility. The two most important at the start might be the one on [unix
-  shell](http://swcarpentry.github.io/shell-novice/) and on [version control
-  with git](http://swcarpentry.github.io/git-novice/)
-
-Books and university courses
-----------------------------
-
+* [An Introduction to Programming for Bioscientists: A Python-Based Primer](https://doi.org/10.1371/journal.pcbi.1004867)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org)
 * [Python for Biologists](http://pythonforbiologists.com)
+
+## R and RStudio
+
+* Data Carpentry - [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/)
+* Software Carpentry - [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/)
+* Software Carpentry - [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
 * [R for Data Science](http://r4ds.had.co.nz)
-* [Bioinformatics Data Skills](http://shop.oreilly.com/product/0636920030157.do)
-
-More detailed courses focusing on data science, bioinformatics and genomics
-
+* [Advanced R](http://adv-r.had.co.nz/)
+* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+* [Computational Genomics with R](http://compgenomr.github.io/book/)
 * [Introduction to Data Science](https://rafalab.github.io/dsbook/)
-* [Introduction to Computational Biology](https://biodatascience.github.io/compbio/)
-* [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/)
-* [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
+
+## Misc books and courses
+
+Books and courses on data science, bioinformatics, data visualization, etc. Do
+check their resources, recommended readings, etc sections.
+
+* Statistical concepts and data analytic skills in data-driven life science
+  research. [PH525x series - Biomedical Data
+  Science](http://genomicsclass.github.io/book/)
+* Combining biology and statistics. [Modern Statistics for Modern
+  Biology](https://www.huber.embl.de/msmb/)
+* A course from Mike Love. [Introduction to Computational
+  Biology](https://biodatascience.github.io/compbio/)
+* All of the [Software Carpentry](https://software-carpentry.org/lessons/) and
+  [Data Carpentry](https://datacarpentry.org/lessons/) lessons not listed so
+  far.
