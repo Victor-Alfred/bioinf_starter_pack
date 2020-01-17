@@ -62,6 +62,7 @@ other formats. github and other sites render it nicely.
 ## Data organization
 
 * Data Carpentry - [Data Organization in Spreadsheets for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/)
+* Naming files - [naming things by Jenny Bryan](https://speakerdeck.com/jennybc/how-to-name-files). If your filenames are wrong, your entire life is wrong.
 
 ## Linux command line
 
