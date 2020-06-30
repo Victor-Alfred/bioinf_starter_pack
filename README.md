@@ -100,6 +100,8 @@ check their resources, recommended readings, etc sections.
   Biology](https://www.huber.embl.de/msmb/)
 * A course from Mike Love. [Introduction to Computational
   Biology](https://biodatascience.github.io/compbio/)
+* Using Bioconductor. [Bioconductor for Genomic Data
+  Science](https://kasperdanielhansen.github.io/genbioconductor/)
 * All of the [Software Carpentry](https://software-carpentry.org/lessons/) and
   [Data Carpentry](https://datacarpentry.org/lessons/) lessons not listed so
   far.
